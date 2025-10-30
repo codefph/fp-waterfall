@@ -1,13 +1,13 @@
 {
   "name": "fp-waterfall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx tsc"
   },
-  "keywords": [],
+  "keywords": ["css","js","waterfall"],
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.18.2",

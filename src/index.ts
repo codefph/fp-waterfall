@@ -12,7 +12,7 @@ class Waterfall {
     private columnCount = 0
     // 最新4列的高度
     private lastColumnCountHeights: number[] = []
-    private gap = 12
+    private gap = 0
     constructor(option: WaterfallOption) {
         if (!option.wrapper) {
             throw new Error('wrapper is required')
